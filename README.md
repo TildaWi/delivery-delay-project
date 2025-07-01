@@ -111,10 +111,7 @@
 - 이상 점수 하위 5% (Quantile 기준)  
 - 동일 배송에서 연속 지연 3회 이상 발생
 
----
-
 📊 **삽입 이미지**: `images/anomaly_scoring_framework.png`
-
 
 ---
 
