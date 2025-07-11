@@ -4,7 +4,7 @@
 > **분석 기간** &nbsp;|&nbsp;  2025.06 - 2025.06 <br/>
 > **분석 주체** &nbsp;|&nbsp;  개인 프로젝트 <br/>
 > **분석 기법** &nbsp;|&nbsp;  이상 탐지, 시계열 분석, 패턴 분석 <br/>
-> **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
+> **분석 기술** &nbsp;|&nbsp;  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-004D7A?style=flat&logo=matplotlib&logoColor=white"/> <img src="https://img.shields.io/badge/Seaborn-5A5AA5?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
 
 ---
 
@@ -15,9 +15,9 @@
 ```plaintext
 📁 delivery_delay_project/
  ┣ 📁 data/              원천 데이터 (Delhivery 배송 이력, 지역, 시간 등)
- ┣ 📁 notebooks/         분석 코드 및 이상 탐지 모델링 (Colab)
- ┣ 📁 images/            시각화 결과 (이상 점수 분포, 조건별 비교 차트 등)
- ┣ 📁 reports/           보고서 및 발표자료 (PDF, PPT)
+ ┣ 📁 notebooks/         분석 코드 (Colab)
+ ┣ 📁 images/            시각화 결과 
+ ┣ 📁 reports/           요약 보고서(PDF)
  ┣ 📄 README.md          프로젝트 설명 문서
  ┗ 📄 requirements.txt   사용한 Python 패키지 목록
 ```
